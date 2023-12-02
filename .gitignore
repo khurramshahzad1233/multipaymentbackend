@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+/itinertrip/node_modules
+/itinertrip/.pnp
+/itinertrip/.pnp.js
+
+# testing
+/coverage
+
+# production
+/itinertrip/build
+
+# misc
+# /backend/config.env
+/itinertrip/.DS_Store
+/itinertrip/.env.local
+/itinertrip/.env.development.local
+/itinertrip/.env.test.local
+/itinertrip/.env.production.local
